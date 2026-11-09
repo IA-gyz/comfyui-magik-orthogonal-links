@@ -1,0 +1,27 @@
+{
+  "references": 10000,
+  "queries": 300,
+  "buildMs": 17.749938999999813,
+  "fullSortMs": 2740.7828489999997,
+  "indexedMs": 16.760519000000386,
+  "samples": [
+    {
+      "buildMs": 28.788145,
+      "fullSortMs": 2740.7828489999997,
+      "indexedMs": 18.075672000000395,
+      "selectionHash": "39273a18cd3395433998dc6554bf02d362364d17bf138313da8faa2187ca7de7"
+    },
+    {
+      "buildMs": 17.749938999999813,
+      "fullSortMs": 2819.3601169999997,
+      "indexedMs": 16.760519000000386,
+      "selectionHash": "39273a18cd3395433998dc6554bf02d362364d17bf138313da8faa2187ca7de7"
+    },
+    {
+      "buildMs": 15.343173000000206,
+      "fullSortMs": 2531.6763170000004,
+      "indexedMs": 10.552355000001626,
+      "selectionHash": "39273a18cd3395433998dc6554bf02d362364d17bf138313da8faa2187ca7de7"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "old": [
+    {
+      "frames": 400,
+      "estimatedBytes": 342377688,
+      "estimatedBytesPerFrame": 855944.22,
+      "samplingInterval": 8192
+    },
+    {
+      "frames": 400,
+      "estimatedBytes": 325162744,
+      "estimatedBytesPerFrame": 812906.86,
+      "samplingInterval": 8192
+    },
+    {
+      "frames": 400,
+      "estimatedBytes": 325020960,
+      "estimatedBytesPerFrame": 812552.4,
+      "samplingInterval": 8192
+    }
+  ],
+  "new": [
+    {
+      "frames": 400,
+      "estimatedBytes": 289323272,
+      "estimatedBytesPerFrame": 723308.18,
+      "samplingInterval": 8192
+    },
+    {
+      "frames": 400,
+      "estimatedBytes": 289794704,
+      "estimatedBytesPerFrame": 724486.76,
+      "samplingInterval": 8192
+    },
+    {
+      "frames": 400,
+      "estimatedBytes": 295019144,
+      "estimatedBytesPerFrame": 737547.86,
+      "samplingInterval": 8192
+    }
+  ]
+}

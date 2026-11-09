@@ -1,0 +1,111 @@
+{
+  "cycles": 120,
+  "linksPerWorkflow": 1000,
+  "retiredObjects": 240,
+  "retained": 0,
+  "samples": [
+    {
+      "cycle": 10,
+      "rss": 274866176,
+      "heapTotal": 184700928,
+      "heapUsed": 18570904,
+      "external": 3925343,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 20,
+      "rss": 327819264,
+      "heapTotal": 195448832,
+      "heapUsed": 18601296,
+      "external": 3925383,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 30,
+      "rss": 336519168,
+      "heapTotal": 195973120,
+      "heapUsed": 18654888,
+      "external": 3925383,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 40,
+      "rss": 336412672,
+      "heapTotal": 188895232,
+      "heapUsed": 18594856,
+      "external": 3925383,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 50,
+      "rss": 338890752,
+      "heapTotal": 183914496,
+      "heapUsed": 17233536,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 60,
+      "rss": 339312640,
+      "heapTotal": 177098752,
+      "heapUsed": 17235672,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 70,
+      "rss": 336556032,
+      "heapTotal": 179982336,
+      "heapUsed": 17233600,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 80,
+      "rss": 336551936,
+      "heapTotal": 184176640,
+      "heapUsed": 17236352,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 90,
+      "rss": 336580608,
+      "heapTotal": 181293056,
+      "heapUsed": 17245616,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 100,
+      "rss": 338890752,
+      "heapTotal": 186798080,
+      "heapUsed": 17248600,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 110,
+      "rss": 338948096,
+      "heapTotal": 190468096,
+      "heapUsed": 17257384,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    },
+    {
+      "cycle": 120,
+      "rss": 339447808,
+      "heapTotal": 190992384,
+      "heapUsed": 17258952,
+      "external": 3921318,
+      "arrayBuffers": 212095
+    }
+  ],
+  "final": {
+    "rss": 339447808,
+    "heapTotal": 145117184,
+    "heapUsed": 8978896,
+    "external": 3921318,
+    "arrayBuffers": 212095
+  }
+}

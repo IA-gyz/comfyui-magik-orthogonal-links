@@ -1,0 +1,347 @@
+[
+  {
+    "links": 80,
+    "before": {
+      "batchMs": 397.803944,
+      "samples": [
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 381.83552199999997,
+          "batchRoutes": 80,
+          "batchGeometryHash": "eb76a891e7bbf373a155259f461cc74228a7a11f4adb9a1e3095777155bd7a98",
+          "nodes": 161,
+          "links": 80,
+          "coldMs": 5.901882999999998,
+          "staticMedianMs": 0.6010500000000008,
+          "remoteMoveMedianMs": 0.5080190000000044,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 1.3152200000000107,
+          "localPathAllocations": 5,
+          "geometryHash": "364105b08f06637b1c94d7e49680bb3cef8da269e940d7fe0cbbd13bf9d688e5"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 441.046846,
+          "batchRoutes": 80,
+          "batchGeometryHash": "eb76a891e7bbf373a155259f461cc74228a7a11f4adb9a1e3095777155bd7a98",
+          "nodes": 161,
+          "links": 80,
+          "coldMs": 6.8441290000000095,
+          "staticMedianMs": 0.8500869999999878,
+          "remoteMoveMedianMs": 0.5947400000000016,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 2.00733799999999,
+          "localPathAllocations": 5,
+          "geometryHash": "364105b08f06637b1c94d7e49680bb3cef8da269e940d7fe0cbbd13bf9d688e5"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 397.803944,
+          "batchRoutes": 80,
+          "batchGeometryHash": "eb76a891e7bbf373a155259f461cc74228a7a11f4adb9a1e3095777155bd7a98",
+          "nodes": 161,
+          "links": 80,
+          "coldMs": 9.582782999999992,
+          "staticMedianMs": 0.6611609999999928,
+          "remoteMoveMedianMs": 0.7559140000000042,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 1.3509049999999974,
+          "localPathAllocations": 5,
+          "geometryHash": "364105b08f06637b1c94d7e49680bb3cef8da269e940d7fe0cbbd13bf9d688e5"
+        }
+      ]
+    },
+    "after": {
+      "batchMs": 200.688743,
+      "samples": [
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 200.688743,
+          "batchRoutes": 80,
+          "batchGeometryHash": "eb76a891e7bbf373a155259f461cc74228a7a11f4adb9a1e3095777155bd7a98",
+          "nodes": 161,
+          "links": 80,
+          "coldMs": 7.367215000000002,
+          "staticMedianMs": 0.595010000000002,
+          "remoteMoveMedianMs": 0.7327790000000078,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 1.7631489999999985,
+          "localPathAllocations": 5,
+          "geometryHash": "364105b08f06637b1c94d7e49680bb3cef8da269e940d7fe0cbbd13bf9d688e5"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 220.98515200000003,
+          "batchRoutes": 80,
+          "batchGeometryHash": "eb76a891e7bbf373a155259f461cc74228a7a11f4adb9a1e3095777155bd7a98",
+          "nodes": 161,
+          "links": 80,
+          "coldMs": 7.362262999999999,
+          "staticMedianMs": 0.7502549999999957,
+          "remoteMoveMedianMs": 0.7872219999999999,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 1.5843980000000073,
+          "localPathAllocations": 5,
+          "geometryHash": "364105b08f06637b1c94d7e49680bb3cef8da269e940d7fe0cbbd13bf9d688e5"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 182.453665,
+          "batchRoutes": 80,
+          "batchGeometryHash": "eb76a891e7bbf373a155259f461cc74228a7a11f4adb9a1e3095777155bd7a98",
+          "nodes": 161,
+          "links": 80,
+          "coldMs": 5.987042000000002,
+          "staticMedianMs": 0.8584089999999946,
+          "remoteMoveMedianMs": 0.7578670000000045,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 2.949643999999992,
+          "localPathAllocations": 5,
+          "geometryHash": "364105b08f06637b1c94d7e49680bb3cef8da269e940d7fe0cbbd13bf9d688e5"
+        }
+      ]
+    }
+  },
+  {
+    "links": 160,
+    "before": {
+      "batchMs": 775.210147,
+      "samples": [
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 775.210147,
+          "batchRoutes": 160,
+          "batchGeometryHash": "ff8250bed0ec33e3a3f89a6b91e73a5308311fe70b0b85f7c1cf331aaaf8cf7b",
+          "nodes": 321,
+          "links": 160,
+          "coldMs": 19.332509,
+          "staticMedianMs": 1.3623019999999997,
+          "remoteMoveMedianMs": 0.9871440000000007,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 2.2033149999999893,
+          "localPathAllocations": 5,
+          "geometryHash": "b66249a40d068c2be705a8da74382e44d910ec71f92944f5dff4db7534346857"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 804.99158,
+          "batchRoutes": 160,
+          "batchGeometryHash": "ff8250bed0ec33e3a3f89a6b91e73a5308311fe70b0b85f7c1cf331aaaf8cf7b",
+          "nodes": 321,
+          "links": 160,
+          "coldMs": 10.472579999999994,
+          "staticMedianMs": 1.2900920000000013,
+          "remoteMoveMedianMs": 1.0161480000000012,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 2.2881419999999935,
+          "localPathAllocations": 5,
+          "geometryHash": "b66249a40d068c2be705a8da74382e44d910ec71f92944f5dff4db7534346857"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 722.254489,
+          "batchRoutes": 160,
+          "batchGeometryHash": "ff8250bed0ec33e3a3f89a6b91e73a5308311fe70b0b85f7c1cf331aaaf8cf7b",
+          "nodes": 321,
+          "links": 160,
+          "coldMs": 10.739834000000009,
+          "staticMedianMs": 1.1149879999999968,
+          "remoteMoveMedianMs": 0.9448099999999897,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 2.211997000000011,
+          "localPathAllocations": 5,
+          "geometryHash": "b66249a40d068c2be705a8da74382e44d910ec71f92944f5dff4db7534346857"
+        }
+      ]
+    },
+    "after": {
+      "batchMs": 349.772645,
+      "samples": [
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 349.772645,
+          "batchRoutes": 160,
+          "batchGeometryHash": "ff8250bed0ec33e3a3f89a6b91e73a5308311fe70b0b85f7c1cf331aaaf8cf7b",
+          "nodes": 321,
+          "links": 160,
+          "coldMs": 9.923725000000005,
+          "staticMedianMs": 1.2716939999999965,
+          "remoteMoveMedianMs": 0.9680749999999989,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 1.996091000000007,
+          "localPathAllocations": 5,
+          "geometryHash": "b66249a40d068c2be705a8da74382e44d910ec71f92944f5dff4db7534346857"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 336.721608,
+          "batchRoutes": 160,
+          "batchGeometryHash": "ff8250bed0ec33e3a3f89a6b91e73a5308311fe70b0b85f7c1cf331aaaf8cf7b",
+          "nodes": 321,
+          "links": 160,
+          "coldMs": 10.164864999999992,
+          "staticMedianMs": 1.0434490000000096,
+          "remoteMoveMedianMs": 0.9836379999999991,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 4.560952,
+          "localPathAllocations": 5,
+          "geometryHash": "b66249a40d068c2be705a8da74382e44d910ec71f92944f5dff4db7534346857"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 393.098724,
+          "batchRoutes": 160,
+          "batchGeometryHash": "ff8250bed0ec33e3a3f89a6b91e73a5308311fe70b0b85f7c1cf331aaaf8cf7b",
+          "nodes": 321,
+          "links": 160,
+          "coldMs": 8.637162000000004,
+          "staticMedianMs": 1.0386919999999975,
+          "remoteMoveMedianMs": 0.6574549999999988,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 2.7863569999999953,
+          "localPathAllocations": 5,
+          "geometryHash": "b66249a40d068c2be705a8da74382e44d910ec71f92944f5dff4db7534346857"
+        }
+      ]
+    }
+  },
+  {
+    "links": 500,
+    "before": {
+      "batchMs": 2576.177725,
+      "samples": [
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 2631.585187,
+          "batchRoutes": 500,
+          "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+          "nodes": 1001,
+          "links": 500,
+          "coldMs": 22.721929000000003,
+          "staticMedianMs": 2.396517000000003,
+          "remoteMoveMedianMs": 2.242734000000013,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 5.09870699999999,
+          "localPathAllocations": 5,
+          "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 2504.031169,
+          "batchRoutes": 500,
+          "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+          "nodes": 1001,
+          "links": 500,
+          "coldMs": 25.075069999999997,
+          "staticMedianMs": 2.57723,
+          "remoteMoveMedianMs": 3.3859040000000107,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 5.187170000000009,
+          "localPathAllocations": 5,
+          "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 2576.177725,
+          "batchRoutes": 500,
+          "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+          "nodes": 1001,
+          "links": 500,
+          "coldMs": 20.511323000000004,
+          "staticMedianMs": 2.3487249999999875,
+          "remoteMoveMedianMs": 2.712945999999988,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 4.021165000000025,
+          "localPathAllocations": 5,
+          "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+        }
+      ]
+    },
+    "after": {
+      "batchMs": 1275.896933,
+      "samples": [
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 1327.179431,
+          "batchRoutes": 500,
+          "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+          "nodes": 1001,
+          "links": 500,
+          "coldMs": 26.088745000000003,
+          "staticMedianMs": 2.62885399999999,
+          "remoteMoveMedianMs": 1.9891609999999957,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 4.070220000000006,
+          "localPathAllocations": 5,
+          "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 1275.476111,
+          "batchRoutes": 500,
+          "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+          "nodes": 1001,
+          "links": 500,
+          "coldMs": 20.144557999999996,
+          "staticMedianMs": 2.160068999999993,
+          "remoteMoveMedianMs": 2.2289030000000025,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 4.220348000000001,
+          "localPathAllocations": 5,
+          "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+        },
+        {
+          "dense": false,
+          "worker": true,
+          "batchMs": 1275.896933,
+          "batchRoutes": 500,
+          "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+          "nodes": 1001,
+          "links": 500,
+          "coldMs": 21.760728999999998,
+          "staticMedianMs": 2.4631380000000007,
+          "remoteMoveMedianMs": 2.3021339999999952,
+          "staticPathAllocations": 0,
+          "movingPathAllocations": 0,
+          "localMoveMedianMs": 5.0798580000000015,
+          "localPathAllocations": 5,
+          "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+        }
+      ]
+    }
+  }
+]

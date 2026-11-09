@@ -1,0 +1,38 @@
+[
+  {
+    "version": "before",
+    "dense": false,
+    "worker": true,
+    "batchMs": 713.75515,
+    "batchRoutes": 500,
+    "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+    "nodes": 1001,
+    "links": 500,
+    "coldMs": 31.69781300000001,
+    "staticMedianMs": 2.723963999999995,
+    "remoteMoveMedianMs": 2.0079609999999946,
+    "staticPathAllocations": 0,
+    "movingPathAllocations": 0,
+    "localMoveMedianMs": 16.243887,
+    "localPathAllocations": 5,
+    "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+  },
+  {
+    "version": "after",
+    "dense": false,
+    "worker": true,
+    "batchMs": 694.490895,
+    "batchRoutes": 500,
+    "batchGeometryHash": "d61469602ba83917c3f078e3a579c897de4cdf1e94180231f416a7e413dfacc5",
+    "nodes": 1001,
+    "links": 500,
+    "coldMs": 19.875532,
+    "staticMedianMs": 2.530698000000001,
+    "remoteMoveMedianMs": 2.117868999999999,
+    "staticPathAllocations": 0,
+    "movingPathAllocations": 0,
+    "localMoveMedianMs": 4.761843999999996,
+    "localPathAllocations": 5,
+    "geometryHash": "eadd2012126881c802cb43449514c3cdb68b6638d6c2020eaf1c5780f33134d8"
+  }
+]
